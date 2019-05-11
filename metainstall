@@ -12,11 +12,11 @@ pkg install ruby
 gem install lolcat
 
 clear
-toilet -f smslant -F gay 'meTAInstall'
+toilet -f smslant -F gay 'metasploit'
 sleep 1
 echo "\033[33;1m Metasploit Installer" "\033[37;1m From" "\033[36;1mIndonesia Security"
 sleep 1
-echo "\033[31;1m Subscribe YouTube" "\033[36;Kepoin IT"
+echo "\033[31;1m Subscribe YouTube" "\033[36; Kepoin IT"
 
 echo " "
 echo "____________________________________________________________"|lolcat
@@ -36,7 +36,7 @@ echo "\033[31;1mJangan Sampai Layar Ponsel Anda Mati"
 sleep 1
 echo "\033[31;1mJangan Keluar Dari Aplikasi Termux"
 sleep 1
-echo "\033[31;1mJangan Lupa Subscribe Chanel YouTube Kami"
+echo "\033[31;1mJangan Lupa Subscribe Channel YouTube Kami"
 echo "____________________________________________________________"|lolcat
 sleep 3
 echo "\033[35;1m            Bila Sakit Berlanjut Hubungi Dokter"
